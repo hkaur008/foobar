@@ -1,0 +1,13 @@
+.alpha div {
+    border:2px solid black ;
+    height:40px;
+    width: 40px;
+    margin:2px;
+}
+.alpha{
+    display:flex;
+    height:280px;
+    width:320px;
+    flex-flow: row wrap;
+
+}
