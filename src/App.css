@@ -3,11 +3,20 @@
     height:40px;
     width: 40px;
     margin:2px;
+    
 }
 .alpha{
     display:flex;
-    height:280px;
+    height:360px;
     width:320px;
     flex-flow: row wrap;
 
+
+}
+.App{
+    height:50vh;
+    width:50vh;
+    margin-left:auto;
+    margin-right:auto;
+  
 }
